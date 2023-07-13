@@ -1,1 +1,1 @@
-# ML-Pojects-coleect-data-and-make-prediction
+# ML-Pojects-collect-data-and-make-prediction
